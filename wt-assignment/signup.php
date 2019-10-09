@@ -10,18 +10,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Sign up | SUIIT Hub</title>
+    <title>Sign up | Anime | Manga | Forum </title>
     <meta charset="UTF-8">				
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Anime Manga Comic | HTML CSS3 BS4 JS jQuery PHP MySQLi">
     <meta name="author" content="Lomitaswa Suna">
-	<link rel="icon" type="image/png" href="img/logo1.png">
+    <link rel="icon" type="image/png" href="img/logo1.png">
     <!-- Font Awesome -->
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-	<!-- Bootstrap core CSS -->
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
-	<!-- Material Design Bootstrap -->
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.6.1/css/mdb.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.6.1/css/mdb.min.css" rel="stylesheet">
 </head>
 <body>
 
@@ -109,14 +109,6 @@
 					  </div>
 				    <!-- Sign up button -->
 				    <button class="btn btn-info my-4 btn-block" type="submit">Sign Up</button>
-
-				    <hr>
-
-				    <!-- Terms of service -->
-				    <p>By clicking
-				        <em>Sign up</em> you agree to our
-				        <a href="" target="">terms of service</a>
-				    </p>
 				</form>
 				<!-- Default form signup -->
 				
