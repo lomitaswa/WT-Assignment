@@ -125,7 +125,7 @@
 				    <!-- Terms of service -->
 				    <p>By clicking
 				        <em>Sign up</em> you agree to our
-				        <a href="" target="">terms of service</a>
+				        <a href="#" target="#">terms of service</a>
 				    </p>
 					</form>
 				<!-- Default form signup -->
