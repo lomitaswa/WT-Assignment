@@ -42,7 +42,7 @@
                 <div class="col-lg-4 offset-lg-1" style="margin-bottom: 60px; margin-top: 40px;">
                     <img class="img-fluid wow rotateIn" data-wow-delay="1s" src="img/anime.jpg" alt="Logo by https://www.flaticon.com/free-icon/earth-pictures_48792" width="60%" height="60%">  
                 </div>
-                <!--Login-->
+                <!--login-->
                 <div class="jumbotron x col-lg-3 grow" style="">
                     <br>
                     <p>Explore new projects...</p>      
