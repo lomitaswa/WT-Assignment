@@ -47,7 +47,7 @@
                     <br>
                     <p>Explore new projects...</p>      
                     <a href="login.php">
-                        <button type="button" class="btn btn-outline-light grow">Login</button>
+                        <button type="button" class="btn btn-outline-light grow">login</button>
                     </a>
                 </div>
                 <!--Sign up-->
